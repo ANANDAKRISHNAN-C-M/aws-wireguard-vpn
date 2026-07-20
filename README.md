@@ -362,33 +362,33 @@ This confirmed that the EC2 instance was functioning as the internet egress poin
 
 #### VPC Resource Map
 
-![AWS VPC Resource Map](screenshots/01-vpc-resource-map.png)
+![AWS VPC Resource Map](screenshots/vpc-resource-map.png)
 
 #### Public Subnet
 
-![Public Subnet](screenshots/02-public-subnet.png)
+![Public Subnet](screenshots/public-subnet.png)
 
 #### Route Table
 
-![Public Route Table](screenshots/03-route-table.png)
+![Public Route Table](screenshots/route-table.png)
 
 #### Security Group
 
-![AWS Security Group](screenshots/04-security-group.png)
+![AWS Security Group](screenshots/security-group.png)
 
 #### EC2 VPN Server
 
-![EC2 VPN Server](screenshots/05-ec2-instance.png)
+![EC2 VPN Server](screenshots/ec2-instance.png)
 
 ### VPN Verification
 
 #### WireGuard Handshake
 
-![WireGuard Handshake](screenshots/06-wireguard-handshake.png)
+![WireGuard Handshake](screenshots/wireguard-handshake.png)
 
 #### Public IP Before VPN
 
-![Public IP Before VPN](screenshots/07-before-vpn.png)
+![Public IP Before VPN](screenshots/before-vpn.png)
 
 #### Public IP After VPN
 
