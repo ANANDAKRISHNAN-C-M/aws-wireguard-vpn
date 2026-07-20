@@ -1,0 +1,13 @@
+[Interface]
+Address = 10.10.0.1/24
+ListenPort = 51820
+
+# Never commit the actual private key.
+PrivateKey = <SERVER_PRIVATE_KEY>
+
+PostUp = <IPTABLES_FORWARDING_AND_NAT_RULES>
+PostDown = <IPTABLES_CLEANUP_RULES>
+
+[Peer]
+PublicKey = <CLIENT_PUBLIC_KEY>
+AllowedIPs = 10.10.0.2/32
