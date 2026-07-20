@@ -10,7 +10,7 @@ The architecture routes IPv4 internet traffic from a Windows client through an e
 
 ## Architecture Diagram
 
-![Self-Hosted WireGuard VPN on AWS](aws-vpn-architecture.png)
+![Self-Hosted WireGuard VPN on AWS](aws-vpn-architecture.png.png)
 
 ---
 
