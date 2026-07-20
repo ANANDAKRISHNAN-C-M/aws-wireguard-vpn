@@ -570,7 +570,7 @@ aws-wireguard-vpn/
 
 Detailed technical documentation is separated from the main README:
 
-- [Architecture Deep Dive](docs/architecture/README.mdd)
+- [Architecture Deep Dive](docs/architecture/README.md)
 - [Complete Setup Guide](docs/setup-guide.md)
 - [Security Considerations](docs/security.md)
 - [Troubleshooting & Lessons Learned](docs/troubleshooting.md)
