@@ -10,7 +10,7 @@ This project was built manually to gain hands-on experience with AWS networking 
 
 ## Architecture
 
-![Self-Hosted WireGuard VPN Architecture](architecture/aws-vpn-architecture.png)
+![Self-Hosted WireGuard VPN Architecture](docs/architecture/aws-vpn-architecture.png)
 
 ### Traffic Flow
 
