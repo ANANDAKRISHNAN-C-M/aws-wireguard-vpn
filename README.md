@@ -1,4 +1,5 @@
 # Self-Hosted WireGuard VPN on AWS
+Author: Anandakrishnan C M Date: July 19, 2026
 
 A self-hosted VPN infrastructure deployed on **Amazon Web Services (AWS)** using **WireGuard, Ubuntu Linux, VPC networking, IP forwarding, and NAT**.
 
